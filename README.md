@@ -36,7 +36,7 @@ I enjoy designing robust APIs, optimizing server performance, and turning ideas 
 
 ## 📂 Personal Projects
 
-- **Talabat E-Commerce Website (MEAN Stack)** – Full-stack online shopping platform.
+- [**Talabat E-Commerce Website (MEAN Stack)**](https://github.com/Farouk-Osman/Talabat/blob/main/README.md) – Full-stack online shopping platform.
 - **Library Booking Website** – Online system for borrowing and managing books.
 - **Movie App (IMDb-like)** – Movie listing platform with ratings and reviews.
 
