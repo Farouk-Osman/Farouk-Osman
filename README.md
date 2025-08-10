@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Farouk Osman
 
+![Logo](https://farouk-osman.github.io/Farouk.github.io/farouk-photo.png)
+
 I’m a **Back-End Developer** specialized in **Node.js**, **Express**, and **NestJS**, with a passion for building scalable and efficient web applications.  
 I enjoy designing robust APIs, optimizing server performance, and turning ideas into production-ready solutions.
 
