@@ -1,6 +1,6 @@
-# Hi there, I'm Farouk! 👋
-
 ![Logo](https://farouk-osman.github.io/Farouk.github.io/farouk-photo.png)
+
+# Hi there, I'm Farouk! 👋
 
 ## 🚀 About Me
 Back-End Developer specialized in **Node.js**, **Express**, and **NestJS**, with experience building scalable systems for projects like e-commerce, booking platforms, and movie databases.  
@@ -39,7 +39,7 @@ Proficient in designing RESTful APIs, managing databases, and ensuring applicati
 
 ## 📂 Projects
 
-### 🛒 [Talabat E-Commerce Website](https://github.com/Farouk-Osman/Talabat)
+### 🛒 [Talabat E-Commerce Website](https://github.com/Farouk-Osman/Talabat/blob/main/README.md)
 Full-stack online shopping platform built with **MEAN Stack** (MongoDB, Express, Angular, Node.js).  
 **Features:** Product browsing, cart management, checkout, admin panel.  
 
