@@ -37,6 +37,22 @@ Proficient in designing RESTful APIs, managing databases, and ensuring applicati
 
 ---
 
+## 📂 Projects
+
+### 🛒 [Talabat E-Commerce Website](https://github.com/Farouk-Osman/Talabat)
+Full-stack online shopping platform built with **MEAN Stack** (MongoDB, Express, Angular, Node.js).  
+**Features:** Product browsing, cart management, checkout, admin panel.  
+
+### 📚 [Library Booking Website](https://github.com/Farouk-Osman/Library-Booking)
+Web application for borrowing books online.  
+**Stack:** Django (Backend), HTML/CSS/JavaScript (Frontend).  
+
+### 🎬 [Movie App](https://github.com/Farouk-Osman/Movie-App)
+Movie listing platform similar to IMDb.  
+**Features:** Movie search, ratings, and reviews.  
+
+---
+
 ## 🌐 Links
 📧 **Email:** [faroukosman53@gmail.com](mailto:faroukosman53@gmail.com)  
 💼 **LinkedIn:** [Farouk Osman](https://www.linkedin.com/in/farouk-etman-460032274/)  
