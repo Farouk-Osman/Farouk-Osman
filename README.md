@@ -1,4 +1,4 @@
-![Logo](https://farouk-osman.github.io/Farouk.github.io/farouk-photo.png)
+![Logo](https://farouk-osman.github.io/main/farouk-photo.png)
 
 # Hi there, I'm Farouk! 👋
 
@@ -49,7 +49,7 @@ Full-stack online shopping platform built with **MEAN Stack** (MongoDB, Express,
 ## 🌐 Links
 📧 **Email:** [faroukosman53@gmail.com](mailto:faroukosman53@gmail.com)  
 💼 **LinkedIn:** [Farouk Osman](https://www.linkedin.com/in/farouk-etman-460032274/)  
-🌍 **Portfolio:** [My Portfolio Website](https://farouk-osman.github.io/Farouk.github.io/#)  
+🌍 **Portfolio:** [My Portfolio Website](https://farouk-osman.github.io/main/#)  
 
 ---
 
