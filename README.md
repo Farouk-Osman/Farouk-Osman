@@ -67,11 +67,11 @@
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farouk-Osman&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Farouk-Osman&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=Farouk-Osman&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farouk-Osman&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Farouk-Osman&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
