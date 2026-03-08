@@ -71,7 +71,7 @@
 <p align="center">
 
 <a href="https://codeforces.com/profile/FERO14">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=FERO14" />
+<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=FERO14" />
 </a>
 
 <br><br>
