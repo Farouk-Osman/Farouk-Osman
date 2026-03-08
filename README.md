@@ -68,9 +68,7 @@
 
 ## 🧠 Competitive Programming
 
-<a href="https://codeforces.com/profile/FERO14">
-<img src="https://cf-stats.vercel.app/api?username=FERO14&theme=dark" />
-</a>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=FERO14)](https://codeforces.com/profile/FERO14)
 
 <br><br>
 
@@ -79,12 +77,6 @@
 </a>
 
 </p>
-
-### 📊 Stats
-
-⭐ **Codeforces:** Rating & Rank shown in card  
-🧩 **LeetCode:** Problems Solved + Difficulty Breakdown  
-📊 **Contest Rating:** Contest performance & ranking
 
 ---
 
