@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Farouk-Osman&icon=5&color=6"/>
+<img src="https://komarev.com/ghpvc/?username=Farouk-Osman&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
