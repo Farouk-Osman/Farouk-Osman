@@ -68,7 +68,7 @@
 
 ## 🧠 Competitive Programming
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=FERO14)](https://codeforces.com/profile/FERO14)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=FERO14&theme=dark)](https://codeforces.com/profile/FERO14)
 
 <br><br>
 
