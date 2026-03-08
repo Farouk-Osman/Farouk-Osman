@@ -68,10 +68,8 @@
 
 ## 🧠 Competitive Programming
 
-<p align="center">
-
 <a href="https://codeforces.com/profile/FERO14">
-<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=FERO14" />
+<img src="https://cf-stats.vercel.app/api?username=FERO14&theme=dark" />
 </a>
 
 <br><br>
