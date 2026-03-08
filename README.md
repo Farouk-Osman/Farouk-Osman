@@ -64,6 +64,26 @@
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite)
 
 ---
+## 🧠 Competitive Programming
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/FERO14">
+<img src="https://img.shields.io/badge/Codeforces-FERO14-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+<br>
+<b>Level:</b> Competitive Programmer (Codeforces)
+
+<br><br>
+
+<a href="https://leetcode.com/u/FaroukHamdiFarouk/">
+<img src="https://img.shields.io/badge/LeetCode-FaroukHamdiFarouk-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+<br>
+<b>Level:</b> Problem Solving & Algorithms
+
+</p>
+---
 
 # 📊 GitHub Stats
 
