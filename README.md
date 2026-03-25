@@ -1,15 +1,9 @@
-  <p align="center">
-    <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/13ᵗʰ Most Followed User 🇪🇬-282830?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/4ᵗʰ Most Active User 🇪🇬-282830?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
-  </p>
 
 <h1 align="center">Hi, I'm Farouk Hamdi</h1>
 <h2 align="center">Software Engineer | Backend Developer | Full Stack</h2>
 
 <div align="center">
-  <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+  <a href="https://www.google.com.eg/search?q=Farouk+Osman+linkedin"> <!-- Google Me -->
     
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
@@ -38,8 +32,12 @@
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,js,nodejs,expressjs,mongodb,mysql,postgres,sqlserver,sqlite,html,css,react,angular,postman,swagger,git,powershell,visualstudio,vscode,npm,linux&perline=6" style="height:105px;"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=farouk-osman&theme=highcontrast" height="105"/>
+    
   </p>
+
+  
+  <img src="https://streak-stats.demolab.com/?user=farouk-osman&theme=highcontrast" height="155"/>
+ 
 
   ### 🏆 GitHub Trophies
   
