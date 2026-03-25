@@ -45,8 +45,4 @@
     <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Farouk-Osman&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farouk-Osman/Farouk-Osman/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farouk-Osman/Farouk-Osman/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Farouk-Osman/Farouk-Osman/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Farouk-Osman/Farouk-Osman/output/github-contribution-grid-snake-dark.svg)
