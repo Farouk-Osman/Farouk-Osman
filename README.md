@@ -36,7 +36,7 @@
   </p>
 
   
-  <img src="https://streak-stats.demolab.com/?user=farouk-osman&theme=highcontrast" height="155"/>
+  <img src="https://streak-stats.demolab.com/?user=farouk-osman&theme=highcontrast" height="255"/>
  
 
   ### 🏆 GitHub Trophies
